@@ -22,7 +22,7 @@
 
 ### Certifications 
 <div>
-  <img src="https://img.shields.io/badge/A%2B-red?style=social&logo=CompTIA"
+  [![A+](https://img.shields.io/badge/A%2B-red?style=social&logo=CompTIA)](https://www.comptia.org/certifications/a)
     
   [![Network+](https://img.shields.io/badge/Network%2B-blue?style=social&logo=CompTIA)](https://www.comptia.org/certifications/network)
   
