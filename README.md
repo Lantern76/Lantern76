@@ -22,7 +22,7 @@
 
 ### Certifications 
 <div>
-  <img src="https://img.shields.io/badge/A%2B-red?logo=CompTIA"
+  <img src="https://img.shields.io/badge/A%2B-red?style=social&logo=CompTIA"
 
 </div>
 
