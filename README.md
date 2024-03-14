@@ -20,7 +20,11 @@
 
 - ⚡ Fun fact **I am an avid history buff**
 
-  Certifications 
+### Certifications 
+<div>
+  <img src="https://img.shields.io/badge/A%2B-red?logo=CompTIA"
+
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
