@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I am an avid history buff**
 
-  ### Certifications 
+  Certifications 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
