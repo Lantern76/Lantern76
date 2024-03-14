@@ -24,7 +24,7 @@
 <div>
   <img src="https://img.shields.io/badge/A%2B-red?style=social&logo=CompTIA"
     
-  <img src="https://img.shields.io/badge/Network%2B-blue?style=social&logo=CompTIA"(https://www.comptia.org/certifications/network")
+  [![Network+](https://img.shields.io/badge/Network%2B-blue?style=social&logo=CompTIA)](https://www.comptia.org/certifications/network)
   
   [![Security+](https://img.shields.io/badge/Security%2B-blue?style=social&logo=CompTIA)](https://www.comptia.org/certifications/security)
   
