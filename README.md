@@ -24,11 +24,11 @@
 <div>
   <img src="https://img.shields.io/badge/A%2B-red?style=social&logo=CompTIA" />
     
-  [![Network+](https://img.shields.io/badge/Network%2B-blue?style=social&logo=CompTIA)](https://www.comptia.org/certifications/network)
+  <img src="https://img.shields.io/badge/Network%2B-blue?style=social&logo=CompTIA" />
   
-  [![Security+](https://img.shields.io/badge/Security%2B-blue?style=social&logo=CompTIA)](https://www.comptia.org/certifications/security)
+  <img src="https://img.shields.io/badge/Security%2B-blue?style=social&logo=CompTIA" />
   
-  [![CySA+](https://img.shields.io/badge/CySA%2B-blue?style=social&logo=CompTIA)](https://www.comptia.org/certifications/cysa)
+  <img src="https://img.shields.io/badge/CySA%2B-blue?style=social&logo=CompTIA" />
 
 </div>
 
