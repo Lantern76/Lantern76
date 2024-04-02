@@ -23,6 +23,7 @@
   ### Skills
   - Windows Event Viewer Log Analysis Beginner Lab  | [Beginner Log Analysis Lab](https://github.com/Lantern76/Log-Analysis-Lab)
   - Begginers Hashing Lab | [Hashing Home Lab](https://github.com/Lantern76/Hashing-Lab/blob/main/README.md)
+  - Network Traffic Analysis Lab | [Network Traffic Lab](https://github.com/Lantern76/Network-Analysis-Lab/blob/main/README.md)
 
 ### Certifications 
 <div>
