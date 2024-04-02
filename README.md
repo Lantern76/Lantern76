@@ -20,8 +20,8 @@
 
 - ⚡ Fun fact **I am an avid history buff**
 
-  ### Skill
-  - Windows Event Viewer Log Analysis Beginner Lab  | <a href="[https://google.com] (https://github.com/Lantern76/Log-Analysis-Lab)">Log Analysis Lab</a/|
+  ### Skills
+  - Windows Event Viewer Log Analysis Beginner Lab  | <a href="(https://github.com/Lantern76/Log-Analysis-Lab)">Log Analysis Lab</a/|
 
 ### Certifications 
 <div>
