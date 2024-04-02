@@ -20,6 +20,9 @@
 
 - ⚡ Fun fact **I am an avid history buff**
 
+  ### Skill
+  - Windows Event Viewer Log Analysis Beginner Lab  | <a href="[https://google.com] (https://github.com/Lantern76/Log-Analysis-Lab)">Log Analysis Lab</a/|
+
 ### Certifications 
 <div>
   <img src="https://img.shields.io/badge/A%2B-red?style=social&logo=CompTIA" />
