@@ -24,6 +24,7 @@
   - Log Analysis  | [Beginner Log Analysis Lab](https://github.com/Lantern76/Log-Analysis-Lab)
   - Hashing | [Hashing Home Lab](https://github.com/Lantern76/Hashing-Lab/blob/main/README.md)
   - Network Traffic | [Network Traffic Lab](https://github.com/Lantern76/Network-Analysis-Lab/blob/main/README.md)
+  - SOC | [SOC Home Lab](https://github.com/Lantern76/SOC-Lab/blob/main/README.md) 
 
 ### Certifications 
 <div>
