@@ -24,6 +24,7 @@
 ### Project Portfolio
   - Company Network Intrusion | [Network Intrusion Presentation](https://github.com/Lantern76/Network-Intrusion-Presentation)
   - Simulated Attack Scenerio | [Hacker Attacks Presentation](https://github.com/Lantern76/Hacker-Attack-Presentation)
+  - Forensic Analysis of Intrusion | [Forensic Investigation Presentation](https://github.com/Lantern76/Forensic-Analysis-of-Intrusion)
 
 ### Labs
   - Log Analysis  | [Beginner Log Analysis Lab](https://github.com/Lantern76/Log-Analysis-Lab)
