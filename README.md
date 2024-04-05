@@ -20,7 +20,11 @@
 
 - ⚡ Fun fact **I am an avid history buff**
 
-  ### Labs
+
+### Project Portfolio
+  - Company Network Intrusion | [Network Intrusion Presentation](https://github.com/Lantern76/Network-Intrusion-Presentation)
+
+### Labs
   - Log Analysis  | [Beginner Log Analysis Lab](https://github.com/Lantern76/Log-Analysis-Lab)
   - Hashing | [Hashing Home Lab](https://github.com/Lantern76/Hashing-Lab/blob/main/README.md)
   - Network Traffic | [Network Traffic Lab](https://github.com/Lantern76/Network-Analysis-Lab/blob/main/README.md)
