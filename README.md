@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lantern76" alt="lantern76" /></a> </p>
 
-- 🔭 I’m currently working on **Security Onion Home Lab**
+- 🔭 I’m currently working on **Active Directory Splunk Home Lab**
 
 - 🌱 I’m currently learning **Offensive/Defensive security, SOC Operations, and Network Monitoring**
 
