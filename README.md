@@ -31,7 +31,7 @@
   - Hashing | [Hashing Home Lab](https://github.com/Lantern76/Hashing-Lab/blob/main/README.md)
   - Network Traffic | [Network Traffic Lab](https://github.com/Lantern76/Network-Analysis-Lab/blob/main/README.md)
   - SOC | [SOC Home Lab](https://github.com/Lantern76/SOC-Lab/blob/main/README.md)
-  - Active Directory Splunk | 
+  - Active Directory Splunk | [AD Lab](https://github.com/Lantern76/Active-Directory-and-Splunk-Lab/blob/main/README.md)
 
 ### Certifications 
 <div>
