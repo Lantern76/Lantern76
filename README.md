@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A passionate Cybersecurity Professional with a strong desire to countinue exploring the field.</h3>
 
-<p align="center"> <img src=![giphy](https://github.com/Lantern76/Lantern76/assets/119342094/19f2b501-b41c-4ca8-9706-a008cb764481)
+<p align="center"> <img src="https://github.com/Lantern76/Lantern76/assets/119342094/19f2b501-b41c-4ca8-9706-a008cb764481"
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lantern76&label=Profile%20views&color=0e75b6&style=flat" alt="lantern76" /> </p>
