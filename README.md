@@ -6,13 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lantern76&label=Profile%20views&color=0e75b6&style=flat" alt="lantern76" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lantern76" alt="lantern76" /></a> </p>
 
-- 🔭 I’m currently working on **Active Directory Splunk Home Lab**
+- 🔭 I’m currently working on **HTB Machines**
 
 - 🌱 I’m currently learning **Offensive/Defensive security, SOC Operations, and Network Monitoring**
-
-- 👯 I’m looking to collaborate on **SOC related projects**
 
 - 💬 Ask me about **CTF's, OWASP Top 10, and Network Monitoring**
 
