@@ -30,6 +30,10 @@
   - SOC | [SOC Home Lab](https://github.com/Lantern76/SOC-Lab/blob/main/README.md)
   - Active Directory Splunk | [AD Lab](https://github.com/Lantern76/Active-Directory-and-Splunk-Lab/blob/main/README.md)
 
+### HTB Machine WriteUps 
+- Cap | [WriteUp](https://github.com/Lantern76/HTB_Cap)
+- Cicada | [WriteUp](https://github.com/Lantern76/HTB_Cicada)
+
 ### Certifications 
 <div>
   <img src="https://img.shields.io/badge/A%2B-red?style=social&logo=CompTIA" />
