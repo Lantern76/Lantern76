@@ -33,7 +33,7 @@
 ### HTB Machine WriteUps 
 - Cap | [WriteUp](https://github.com/Lantern76/HTB_Cap)
 - Cicada | [WriteUp](https://github.com/Lantern76/HTB_Cicada)
-
+- Active | [WriteUP](https://github.com/Lantern76/HTB_Active/blob/main/README.md)
 ### Certifications 
 <div>
   <img src="https://img.shields.io/badge/A%2B-red?style=social&logo=CompTIA" />
