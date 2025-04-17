@@ -36,6 +36,7 @@
 - Active | [WriteUP](https://github.com/Lantern76/HTB_Active/blob/main/README.md)
 - Shocker | [WriteUp](https://github.com/Lantern76/Shocker_HTB/blob/main/README.md)
 - Devel | [WriteUP](https://github.com/Lantern76/HTB_Devel/blob/main/README.md)
+- Help | [WriteUp](https://github.com/Lantern76/HTB_Help/tree/main)
 ### Certifications 
 <div>
   <img src="https://img.shields.io/badge/A%2B-red?style=social&logo=CompTIA" />
