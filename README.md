@@ -38,6 +38,7 @@
 - Devel | [WriteUP](https://github.com/Lantern76/HTB_Devel/blob/main/README.md)
 - Help | [WriteUp](https://github.com/Lantern76/HTB_Help/tree/main)
 - Optimum | [WriteUp](https://github.com/Lantern76/HTB_Optimum/blob/main/README.md)
+- Blocky | [WriteUp](https://github.com/Lantern76/HTB_Blocky/blob/main/README.md)
 ### Certifications 
 <div>
   <img src="https://img.shields.io/badge/A%2B-red?style=social&logo=CompTIA" />
