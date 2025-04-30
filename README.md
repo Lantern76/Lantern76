@@ -41,6 +41,7 @@
 - Blocky | [WriteUp](https://github.com/Lantern76/HTB_Blocky/blob/main/README.md)
 - Steam | [WriteUp](https://github.com/Lantern76/HTB_Steam/blob/main/README.md)
 - Bashed | [WriteUp](https://github.com/Lantern76/HTB_Bashed/blob/main/README.md)
+- Irked | [WriteUp](https://github.com/Lantern76/HTB_Irked/blob/main/README.md)
 ### Certifications 
 <div>
   <img src="https://img.shields.io/badge/A%2B-red?style=social&logo=CompTIA" />
